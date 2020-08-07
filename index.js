@@ -17,13 +17,13 @@ class Circle{
   }
   
    set diameter(diameter){
-   this._diameter=diameter;
+   this.radius=radius;
   }
   set circumference(circumference){
-    this._circumference=circumference;
+    this.radius=radius;
   }
   set area(area){
-    this._area=area;
+    this.radius=radius;
   }
 }
 
