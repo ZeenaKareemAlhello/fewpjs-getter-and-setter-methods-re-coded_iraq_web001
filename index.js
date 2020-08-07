@@ -4,7 +4,7 @@
 class Circle{
    constructor(radius) {
     this.radius = radius;
-   this.pi=Math.pi
+   this.pi=Math.pi;
   }
   get diameter(){
     return (this.radius*2)
