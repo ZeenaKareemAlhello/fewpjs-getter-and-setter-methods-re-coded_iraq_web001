@@ -2,7 +2,14 @@
 
 
 class Circle{
-  
+   constructor(radius) {
+    this.radius = radius;
+    this.pi=Math.pi;
+  }
+  get diameter(){
+    
+  }
+  get 
 }
 
 
